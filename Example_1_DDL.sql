@@ -41,3 +41,7 @@ STORAGE(BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT) LOCAL
  PARTITION "OJKBOX_DTL_NO01_2012" 
   TABLESPACE "DM_DATA"
  ) ;
+
+/* TO-DO: Create New Table Customer */ -- to demonstrate join dml
+
+/* TO-DO: Create New Table SUM */ -- to demonstrate aggregation query
